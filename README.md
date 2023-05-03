@@ -1,4 +1,4 @@
 # TestFolio
 
 
-Si fois sét font quatre en deux 
+Si fois set font quatre en deux 
