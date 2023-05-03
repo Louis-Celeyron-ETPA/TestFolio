@@ -1,19 +1,3 @@
-<style>
-yellow
-{
-    color:yellow;
-    font-size:100%;
-    font-weight: bold; 
-}
-
-red
-{
-    color:red;
-    font-size:100%;
-    font-weight: bold; 
-}
-
-</style>
 
 # TestFolio
 
